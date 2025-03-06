@@ -1,6 +1,5 @@
 # 👋 Hi, I’m @MatteoGenovese
 
-- 
 - 👀 I’m interested in Sports, eSports and travel.
 - 🌱 I’m currently learning Java and Spring.
 - 💞️ I’m looking to collaborate on backend projects
